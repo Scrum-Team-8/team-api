@@ -1,0 +1,22 @@
+{
+  "name": "team-api",
+  "version": "1.0.0",
+  "description": "scrum team 8 team api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scrum-Team-8/team-api.git"
+  },
+  "author": "Nate Hepworth, Dallas Bedford, Christian R. Britez, Shayla Myers, Dani Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scrum-Team-8/team-api/issues"
+  },
+  "homepage": "https://github.com/Scrum-Team-8/team-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
