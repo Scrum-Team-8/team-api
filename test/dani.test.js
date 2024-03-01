@@ -1,6 +1,6 @@
 it ('Should return Hello', async ()=> {
-    const response = await fetch('http://localhost:3000/chris');
+    const response = await fetch('http://localhost:3000/dani');
     const name = await response.text();
-    expect(name).toBe("chris");
+    expect(name).toBe("dani");
 
 })
